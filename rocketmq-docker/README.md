@@ -181,3 +181,5 @@ services:
       - namesrv
 
 ```
+# about broker volume
+there is some wrong about volume,the broker container can not start up
